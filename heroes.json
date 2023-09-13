@@ -17,6 +17,12 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
+    },
+    {
+      "id": "46637c73-5196-4867-950d-583b362c69b4",
+      "name": "Olena",
+      "description": "Developer",
+      "element": "wind"
     }
   ],
   "filters": [
